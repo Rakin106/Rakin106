@@ -1,5 +1,17 @@
 ## About Me  
-Computer Engineering student at Politecnico di Torino with a strong interest in Artificial Intelligence and Machine Learning. Passionate about continuous learning, problem-solving, and adapting to emerging technologies.  
+Welcome to My GitHub Profile
+I’m Rakin Bhuiyan, a Computer Engineering student at Politecnico di Torino with a strong passion for Artificial Intelligence, Machine Learning, and cutting-edge technology.
+My work revolves around solving problems, building intelligent systems, and continuously expanding my skills in both software development and data-driven solutions.
+
+Here you’ll find:
+
+Academic projects in AI, Machine Learning, and IoT
+
+Personal experiments with new frameworks, tools, and programming languages
+
+Collaborative contributions to open-source and research-driven initiatives
+
+I believe in learning by doing, staying adaptable, and delivering clean, well-documented code.  
 
 ## Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhuiyan-rakin)  
