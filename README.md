@@ -5,7 +5,7 @@ My work revolves around solving problems, building intelligent systems, and cont
 
 Here you’ll find:
 
-Academic projects in AI, Machine Learning, and IoT
+Academic projects in AI, Machine Learning.
 
 Personal experiments with new frameworks, tools, and programming languages
 
