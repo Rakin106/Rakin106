@@ -14,7 +14,8 @@ Collaborative contributions to open-source and research-driven initiatives
 I believe in learning by doing, staying adaptable, and delivering clean, well-documented code.  
 
 ## Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhuiyan-rakin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuiyan-rakin)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/rakinbhuiyan)
 
 ## Tech Stack  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
