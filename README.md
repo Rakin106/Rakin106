@@ -3,11 +3,6 @@ Welcome to My GitHub Profile
 
 Computer Engineering student at Politecnico di Torino, interested in DevOps, cloud, and software development. I enjoy understanding how systems work end to end and using tools like Python, Linux, Git, and Docker to build, deploy, and improve applications. Right now I am learning more about cloud services, CI/CD, and automation, and I like working on small projects to practice what I study. Looking for internships and entry-level roles where I can grow my skills, work in a team, and contribute to real engineering projects.
 
-Here you’ll find:  
-- Academic projects in AI, Machine Learning.  
-- Personal experiments with new frameworks, tools, and programming languages  
-- Collaborative contributions to open-source and research-driven initiatives  
-
 I believe in learning by doing, staying adaptable, and delivering clean, well-documented code.  
 
 ## Socials  
