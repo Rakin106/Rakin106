@@ -1,15 +1,12 @@
 ## About Me  
 Welcome to My GitHub Profile
-I’m Rakin Bhuiyan, a Computer Engineering student at Politecnico di Torino with a strong passion for Artificial Intelligence, Machine Learning, and cutting-edge technology.
-My work revolves around solving problems, building intelligent systems, and continuously expanding my skills in both software development and data-driven solutions.
 
-Here you’ll find :
+Computer Engineering student at Politecnico di Torino, interested in DevOps, cloud, and software development. I enjoy understanding how systems work end to end and using tools like Python, Linux, Git, and Docker to build, deploy, and improve applications. Right now I am learning more about cloud services, CI/CD, and automation, and I like working on small projects to practice what I study. Looking for internships and entry-level roles where I can grow my skills, work in a team, and contribute to real engineering projects.
 
-Academic projects in AI, Machine Learning.
-
-Personal experiments with new frameworks, tools, and programming languages
-
-Collaborative contributions to open-source and research-driven initiatives
+Here you’ll find:  
+- Academic projects in AI, Machine Learning.  
+- Personal experiments with new frameworks, tools, and programming languages  
+- Collaborative contributions to open-source and research-driven initiatives  
 
 I believe in learning by doing, staying adaptable, and delivering clean, well-documented code.  
 
@@ -25,9 +22,8 @@ I believe in learning by doing, staying adaptable, and delivering clean, well-do
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
 
 ## GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=rakin106&theme=default&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=rakin106&theme=default&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakin106&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)  
 
 ---  
-[![](https://visitcount.itsvg.in/api?id=rakin106&icon=0&color=0)](https://visitcount.itsvg.in)  
+![Visitor Count](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg)
