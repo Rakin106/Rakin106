@@ -21,9 +21,3 @@ I believe in learning by doing, staying adaptable, and delivering clean, well-do
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
 
-## GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)  
-
----  
-![Visitor Count](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg)
